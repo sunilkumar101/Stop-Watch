@@ -26,6 +26,6 @@ styles.css: The CSS file for styling the app.
 
 script.js: The JavaScript file that handles the timer functionality.
 
-Author
+# Author
 [Sunil Kumar]
 
